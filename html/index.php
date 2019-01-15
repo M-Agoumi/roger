@@ -9,7 +9,7 @@
 	<div class="nav">
 		<div class="logo">ROG</div>
 		<div class="navbar-menu">
-			<span>Logo</span>
+			<span>Log</span>
 			<span class="last">Register</span>
 		</div>
 	</div>
