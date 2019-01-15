@@ -9,7 +9,7 @@
 	<div class="nav">
 		<div class="logo">ROGER</div>
 		<div class="navbar-menu">
-			<span>login</span>
+			<span>login as</span>
 			<span class="last">Register</span>
 		</div>
 	</div>
