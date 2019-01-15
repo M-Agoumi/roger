@@ -7,7 +7,7 @@
 <body>
 <div class="page">
 	<div class="nav">
-		<div class="logo">ROGER</div>
+		<div class="logo">ROG</div>
 		<div class="navbar-menu">
 			<span>Logo</span>
 			<span class="last">Register</span>
